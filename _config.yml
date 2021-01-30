@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: thewavelet
-email: "kdm3843@gmail.com"
+title: For Sale. ZulaEurope.com ZULAEUROPE
+email: "Domain@ZulaEurope.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  Jack's Profile Page
+  This domain might be for sale. Offers can be sent to the email listed.
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://thewavelet.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
+url: "domain4you.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: d00dwtf
+#github_username:  d00dSpook
 
-repository: "thewavelet/thewavelet.github.io"
+repository: "Domain4You/domain4you.github.io"
 
 # Build settings
 plugins:
