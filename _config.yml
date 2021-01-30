@@ -21,6 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "domain4you.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: d00dwtf
 #github_username:  d00dSpook
+domain4sale: ZulaEurope.com
 
 repository: "Domain4You/domain4you.github.io"
 
